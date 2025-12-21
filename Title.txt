@@ -1,8 +1,13 @@
-<<<<<<< HEAD
+
 Balaya is my hero and also a comedian
 =======
 Balaya is my hero and heroine and comedian
 
+<<<<<<< HEAD
 i dont like akanda movie 
 >>>>>>> feature1
 .............
+=======
+i dont like akanda movie   anyhow they  protrated the hinduism in it.
+jai telugudesam 
+>>>>>>> e02525da18c0501f20c16b7a460f4aff3d03ce00
